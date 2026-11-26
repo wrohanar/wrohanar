@@ -1,16 +1,21 @@
-## Hi there 👋
+# Rohan Jaiswal
 
-<!--
-**wrohanar/wrohanar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI platform and MLOps engineer on Google Cloud. I build production AI platforms: Vertex AI model serving, multi-agent applications on Vertex AI Agent Engine, Terraform-managed infrastructure, and the security and release controls around them.
 
-Here are some ideas to get you started:
+**Currently:** AI Consultant at Deloitte, working on an enterprise AI platform on Google Cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+- **AI and MLOps:** Vertex AI (Agent Engine, online prediction, Model Registry, Pipelines), Agent Development Kit (ADK), Gemini Enterprise
+- **Platform and DevSecOps:** Terraform, GitHub Actions, Cloud Build, Cloud Run, Binary Authorization, VPC Service Controls, Workload Identity Federation
+- **Data:** Dataflow, BigQuery, Apache Kafka, Pub/Sub
+
+### Certifications
+
+- Claude Certified Architect – Professional (Anthropic)
+- Gemini Enterprise Agent Development and Gemini Enterprise Deployment – Certified Partner Specialist (Google Cloud)
+- Certified Continuous Delivery & GitOps Developer (Harness)
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/wrohanar)
